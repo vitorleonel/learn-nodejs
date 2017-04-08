@@ -1,0 +1,19 @@
+{
+  "name": "learn-nodejs",
+  "version": "1.0.0",
+  "description": "No exists description in the moment.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Vitor Leonel <falecom@vitorleonel.com>",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "pug": "^2.0.0-beta11"
+  },
+  "devDependencies": {
+    "node-sass-middleware": "^0.11.0"
+  }
+}
